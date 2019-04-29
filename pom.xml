@@ -339,7 +339,13 @@
                 <version>6.0.0.1</version>
                 <scope>provided</scope>
             </dependency>
-
+             <!-- AEM Jar Dependencies added by Nouman-->
+			      <dependency>
+				         <groupId>com.adobe.aem</groupId>
+				         <artifactId>cq-quickstart</artifactId>
+				         <version>6.5.0</version>
+				         <classifier>standalone</classifier>
+			      </dependency>
             <!-- Apache Commons libraries -->
             <dependency>
                 <groupId>org.apache.commons</groupId>
