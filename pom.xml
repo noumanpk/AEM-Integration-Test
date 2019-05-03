@@ -87,7 +87,7 @@
                                     <version>3.2</version>
                                 </requireMavenVersion>
                                 <requireJavaVersion>
-                                    <version>(1.6,1.8)</version>
+                                    <version>1.8.0_201</version>
                                 </requireJavaVersion>
                             </rules>
                         </configuration>
